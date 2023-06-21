@@ -1,4 +1,4 @@
-# Bitlocker Key From Active Directory
+# Get Bitlocker Key From Active Directory
 Function Get Bitlcoker Reocvery Key From Active Directory  
 
 Get Bitlocker recovery key by Computername or PasswordID
